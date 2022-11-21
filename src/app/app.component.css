@@ -1,0 +1,17 @@
+header{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.bttn-search{
+    height: 30px;
+    width: 50%;
+}
+
+.image{
+    padding-left: 9rem;
+    width: 20px;
+    height: 20px;
+}
